@@ -64,9 +64,9 @@ bash
 Copy
 Edit
 react-mongodb-todo/
-├── backend/         # Express + MongoDB API
+├── backend/         
 │   └── server.js
-├── todo-app/        # React frontend
+├── todo-app/        
 │   ├── src/
 │   └── App.js
 └── README.md
