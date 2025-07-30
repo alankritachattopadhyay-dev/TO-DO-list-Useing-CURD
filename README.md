@@ -9,7 +9,7 @@ A simple and beginner-friendly CRUD-based To-Do List application built using **R
 
 - **Frontend**: ReactJS
 - **Backend**: Node.js + Express
-- **Database**: MongoDB (Local or Atlas)
+- **Database**: MongoDB (Local )
 - **HTTP Client**: Axios
 
 ---
